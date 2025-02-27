@@ -1,0 +1,20 @@
+2025.02.25 21:41:37,369	INFO	1	org.l2jmobius.commons.database.DatabaseFactory	Database: HikariCP pool initialized successfully.
+2025.02.25 21:41:37,569	INFO	1	org.l2jmobius.commons.database.DatabaseFactory	Database: Initialized with a valid connection.
+2025.02.25 21:41:37,585	INFO	1	org.l2jmobius.commons.threads.ThreadPool	ThreadPool: Initialized
+2025.02.25 21:41:37,587	INFO	1	org.l2jmobius.commons.threads.ThreadPool	...scheduled pool executor with 2 total threads.
+2025.02.25 21:41:37,587	INFO	1	org.l2jmobius.commons.threads.ThreadPool	...instant pool executor with 2 total threads.
+2025.02.25 21:41:37,588	INFO	1	org.l2jmobius.loginserver.LoginController	Loading LoginController...
+2025.02.25 21:41:37,881	INFO	1	org.l2jmobius.loginserver.LoginController	Cached 10 KeyPairs for RSA communication.
+2025.02.25 21:41:37,923	INFO	1	org.l2jmobius.loginserver.LoginController	Stored 20 keys for Blowfish communication.
+2025.02.25 21:41:38,009	INFO	1	org.l2jmobius.loginserver.GameServerTable	Loaded 127 server names.
+2025.02.25 21:41:38,031	INFO	1	org.l2jmobius.loginserver.GameServerTable	Loaded 1 registered Game Servers.
+2025.02.25 21:41:38,090	INFO	1	org.l2jmobius.loginserver.GameServerTable	Cached 10 RSA keys for Game Server communication.
+2025.02.25 21:41:38,098	INFO	1	org.l2jmobius.loginserver.LoginServer	Loaded 2 IP Bans.
+2025.02.25 21:41:38,101	INFO	1	org.l2jmobius.loginserver.LoginServer	Listening for GameServers on 127.0.0.1:9014
+2025.02.25 21:41:38,124	INFO	1	org.l2jmobius.loginserver.LoginServer	LoginServer: is now listening on: 0.0.0.0:2106
+2025.02.25 21:41:54,809	INFO	49	org.l2jmobius.loginserver.GameServerThread	Updated Gameserver [1] Bartz IP's:
+2025.02.25 21:41:54,810	INFO	49	org.l2jmobius.loginserver.GameServerThread	192.168.0.109/192.168.0.0/24
+2025.02.25 21:41:54,810	INFO	49	org.l2jmobius.loginserver.GameServerThread	192.168.56.1/192.168.56.0/24
+2025.02.25 21:41:54,810	INFO	49	org.l2jmobius.loginserver.GameServerThread	127.0.0.1/127.0.0.0/8
+2025.02.25 21:41:54,810	INFO	49	org.l2jmobius.loginserver.GameServerThread	185.21.150.72/0.0.0.0/0
+2025.02.25 21:45:26,260	INFO	55	org.l2jmobius.loginserver.LoginController	Auto created account 'admin3'.
